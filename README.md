@@ -1,4 +1,4 @@
-# Drawining App 
+# Drawing App 
 
 ## Motivation to build this project 
 Me and my friends used to talk nearly every nights on "discord", to talk between Us how the week is going and how boring is going the college semester. And in some days, when we are share our screen to each other, the necessity of draw something simple and  minimalist app comes up, just black on white. Motivated by this necessity, and considering that I'm learning some front-end skills, there is: I dedice  to create this <strong>Drawining App</strong> and started my studies. 
