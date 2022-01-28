@@ -11,8 +11,7 @@ Me and my friends talk to each other nearly every night on "Discord" about how t
 I created this simple app using canvas API ```<canvas id="canvas"></canvas>```
 , which is used in animations, drawings, sketches, games, data visualization and a few other things.  To use this API, we need to get the canvas element using ```document.getElementById()``` and give the appropriate context - where the drawing will be rendered. After learning how the canvas api works by watching some videos like <a href="https://www.youtube.com/watch?v=3GqUM4mEYKA&t=225s&ab_channel=DevEd">Learn HTML5 Canvas By Creating A Drawing App | HTML Canvas Tutorial</a> and <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8499s&ab_channel=freeCodeCamp.org">FreeCodeCampJ JavaScript Projects </a>, I tried to design my own app, like I always wished to find on the internet. 
 
-
-Thanks to my girlfriend Fernanda who helped me with this little text.
+* Thanks to my girlfriend Fernanda who helped me with this little text.
 
 
 
