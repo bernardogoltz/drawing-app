@@ -9,13 +9,14 @@ h1{
     text-align: center;
     font-family: 'Poppins' , sans-serif;
     color:  black;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 canvas {
     border-radius: 20px;
     border: solid 2px black;
     cursor: pointer;
+   
 
    
 }
@@ -26,7 +27,6 @@ canvas {
     flex-direction: row;
     margin-top: 20px;
 }
-
 
 
 
@@ -47,3 +47,4 @@ canvas {
     margin: 0px 10px;
 
 }
+
